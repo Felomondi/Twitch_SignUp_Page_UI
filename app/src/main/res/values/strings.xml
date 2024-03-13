@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Twitch Sign-up Form</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="dateOfBirth">Date of Birth</string>
+    <string name="usePhone">Use Phone Instead</string>
+    <string name="terms">By clicking Sign Up, you are indicating that you have read and acknowledge
+    The Terms of Service and Privacy Notice.</string>
+</resources>
